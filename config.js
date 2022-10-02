@@ -1,6 +1,7 @@
 module.exports = {
     pathsToSketches: [
-        "./",
-        "/Users/guillaumepelletier/Desktop/Dropbox/Art/p5/"
+        "/.",
+        "/Users/riccardoventura/Documents/GitHub/Les-environs/Assets/Rumore.scd",
     ]
 };
+
